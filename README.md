@@ -6,7 +6,8 @@ frontend-nanodegree-arcade-game
 	* HTML
 	* CSS
 	* Javascript
-
+# Play the game here
+(Play here)[http://aditya99aa.me/classic-arcade-game/]
 # What I learned
 * How to use `canvas` tag for website
 * How to use javascript for developing light games
@@ -17,14 +18,14 @@ frontend-nanodegree-arcade-game
 * There is a player character and enemies(Bugs).
 * Player has to cross the field avoiding all enemies and has to reach to water.
 
-#How to play?
+# How to play?
 * Use &uarr; to move player up.
 * Use &darr; to move player down.
 * Use &rarr; to move player to right.
 * Use &larr; to move player to left.
 * You will get an alert when you win the game. 
 
-#What further?
+# What further?
 * Implementation of player select
 * Add collectilbles and obstacles
 * Add lives

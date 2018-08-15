@@ -7,7 +7,7 @@ frontend-nanodegree-arcade-game
 	* CSS
 	* Javascript
 # Play the game here
-(Play here)[aditya99aa.me/classic-arcade-game]
+[Play here](aditya99aa.me/classic-arcade-game)
 # What I learned
 * How to use `canvas` tag for website
 * How to use javascript for developing light games

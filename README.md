@@ -1,6 +1,31 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+`This is only basic project`
+# Technogoly 
+	* HTML
+	* CSS
+	* Javascript
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+# What I learned
+* How to use `canvas` tag for website
+* How to use javascript for developing light games
+* Object oriented approach by Javascript classes
+
+# What is arcade-game?
+* This game is simple clone of classic arcade game.
+* There is a player character and enemies(Bugs).
+* Player has to cross the field avoiding all enemies and has to reach to water.
+
+#How to play?
+* Use &uarr; to move player up.
+* Use &darr; to move player down.
+* Use &rarr; to move player to right.
+* Use &larr; to move player to left.
+* You will get an alert when you win the game. 
+
+#What further?
+* Implementation of player select
+* Add collectilbles and obstacles
+* Add lives
+* Add score
